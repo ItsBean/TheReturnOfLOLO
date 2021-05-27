@@ -1,0 +1,4 @@
+repository "SuperMarioTest@ssl://wechat_os_qy08qdpu1hrztheyx0304k6ay@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main" changeset "19"                  
+     
